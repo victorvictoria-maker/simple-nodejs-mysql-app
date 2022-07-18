@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    text-align: center;
+    margin: 50px auto;
+    /* width: 50%; */
+}
+
+table {
+    /* align-self: center; */
+    /* align-items: center; */
+    position: relative;
+    left: 43%;
+    margin-top: 30px;
+    /* top: 30% !important; */
+}
+
+table, th, td {
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+th, td {
+    padding: 5px;
+}
